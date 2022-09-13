@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# About
+Agop Chorbadjian
 
-My name is Agop Chorbadjian, i`m an Full Stack Developer studied in HENRY bootcamp.
+My name is Agop Chorbadjian, i`m an Full Stack Developer.
+Beyond my technical skills, I stand out for my soft skills such as perseverance, communication, effort and teamwork my main goal is to learn and improve every day.
 
 Technical Skills:
 
