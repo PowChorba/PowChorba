@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Agop Chorbadjian
+Hi Agop Chorbadjian
 
 My name is Agop Chorbadjian, i`m an Full Stack Developer.
 Beyond my technical skills, I stand out for my soft skills such as perseverance, communication, effort and teamwork my main goal is to learn and improve every day.
@@ -31,3 +31,6 @@ Some of my Proyects:
 
 ![image](https://user-images.githubusercontent.com/101152834/189527907-9d1dc9c4-b08b-49e1-9927-5c25dfe242eb.png)
 <a href='https://changappv2.vercel.app/' target='onblanc_'>ChangApp</a>
+
+📫 How to reach me:
+<a href='https://www.linkedin.com/in/agopchorbadjian/'><i class="fa-brands fa-linkedin"></i></a>
