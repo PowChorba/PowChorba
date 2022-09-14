@@ -34,5 +34,4 @@ Some of my Proyects:
 
 📫 How to reach me:<br/>
 <a href='https://www.linkedin.com/in/agopchorbadjian/' target='onblanc_'>Linkedin</a><br/>
-<a href='pow.chorba.99@gmail.com' target='onblanc_'>Email</a>
 Email: pow.chorba.99@gmail.com
