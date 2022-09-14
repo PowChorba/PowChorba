@@ -32,6 +32,6 @@ Some of my Proyects:
 ![image](https://user-images.githubusercontent.com/101152834/189527907-9d1dc9c4-b08b-49e1-9927-5c25dfe242eb.png)
 <a href='https://changappv2.vercel.app/' target='onblanc_'>ChangApp</a>
 
-📫 How to reach me:
+📫 How to reach me:<br/>
 <a href='https://www.linkedin.com/in/agopchorbadjian/' target='onblanc_'>Linkedin</a><br/>
 Email: pow.chorba.99@gmail.com
