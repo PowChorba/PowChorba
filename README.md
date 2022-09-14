@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi there 👋,
-:
+
 My name is Agop Chorbadjian, i`m an Full Stack Developer from Argentina 🇦🇷.
 Beyond my technical skills, I stand out for my soft skills such as perseverance, communication, effort and teamwork my main goal is to learn and improve every day.
 
