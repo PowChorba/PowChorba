@@ -33,5 +33,5 @@ Some of my Proyects:
 <a href='https://changappv2.vercel.app/' target='onblanc_'>ChangApp</a>
 
 📫 How to reach me:
-<a href='https://www.linkedin.com/in/agopchorbadjian/' target='onblanc_'>Linkedin</a>
+<a href='https://www.linkedin.com/in/agopchorbadjian/' target='onblanc_'>Linkedin</a><br/>
 Email: pow.chorba.99@gmail.com
