@@ -21,7 +21,7 @@ Beyond my technical skills, I stand out for my soft skills such as perseverance,
 
 Technical Skills:
 
-HTML | CSS | JAVASCRIPT | REACT | REDUX | EXPRESS | SQL | SEQUELIZE
+HTML | CSS | JAVASCRIPT | TYPESCRIPT | REACT | REDUX | EXPRESS | SQL | SEQUELIZE | MONGODB
 
 Some of my Proyects:
 
