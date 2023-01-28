@@ -25,9 +25,8 @@ HTML | CSS | JAVASCRIPT | TYPESCRIPT | REACT | REDUX | EXPRESS | SQL | SEQUELIZE
 
 Some of my Proyects:
 
-![image](https://user-images.githubusercontent.com/101152834/183227426-fe001470-2955-476a-a4ef-2627df0bc480.png)
-
-<a href='https://pi-pokemons-chi.vercel.app/' target='onblanc_'>PokeDex</a>
+![FastChatImg](https://user-images.githubusercontent.com/101152834/215238520-d0f6a502-ef9f-49ad-8ad8-18923c164a2b.PNG)
+<a href='https://fast-chat-chi.vercel.app/' target='onblanc_'>FastChat</a>
 
 ![image](https://user-images.githubusercontent.com/101152834/189527907-9d1dc9c4-b08b-49e1-9927-5c25dfe242eb.png)
 <a href='https://changappv2.vercel.app/' target='onblanc_'>ChangApp</a>
