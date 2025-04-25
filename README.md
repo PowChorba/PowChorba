@@ -21,17 +21,23 @@ Beyond my technical skills, I stand out for my soft skills such as perseverance,
 
 Some of my Proyects:
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1dfca7f3-2a6d-408b-a114-50cde9046511" width="300" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1dfca7f3-2a6d-408b-a114-50cde9046511" width="250" /><br />
+      <b>737 Target Speed App</b><br />
+      <a href="https://drive.google.com/file/d/1ofts-glCuda5TG5GRHHrUuO89JF2es_E/view?usp=drive_link" target="_blank">📲 Download Android</a><br />
+      <a href="https://youtube.com/shorts/VTjd0Oe67GM?feature=share" target="_blank">▶️ Watch demo video</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/585184d1-e53d-4ba4-99bd-33b7209500d1" width="250" /><br />
+      <b>ViajAR App</b><br />
+      <a href="https://www.viajarapp.com/" target="_blank">🌐 Visit Website</a>
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">737 Target Speed App</h3>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1ofts-glCuda5TG5GRHHrUuO89JF2es_E/view?usp=drive_link" target="_blank">
-    <b>📲 Download Android</b>
-  </a>
-</p>
 
 📫 How to reach me:<br/>
 <a href='https://www.linkedin.com/in/agopchorbadjian/' target='onblanc_'>Linkedin</a><br/>
