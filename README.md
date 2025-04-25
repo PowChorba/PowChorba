@@ -16,20 +16,13 @@ Here are some ideas to get you started:
 -->
 Hi there 👋,
 
-My name is Agop Chorbadjian, i`m an Full Stack Developer from Argentina 🇦🇷.
+My name is Agop Chorbadjian, i`m a Mobile Developer from Argentina 🇦🇷.
 Beyond my technical skills, I stand out for my soft skills such as perseverance, communication, effort and teamwork my main goal is to learn and improve every day.
-
-Technical Skills:
-
-HTML | CSS | JAVASCRIPT | TYPESCRIPT | REACT | REDUX | EXPRESS | SQL | SEQUELIZE | MONGODB
 
 Some of my Proyects:
 
-![FastChatImg](https://user-images.githubusercontent.com/101152834/215238520-d0f6a502-ef9f-49ad-8ad8-18923c164a2b.PNG)
-<a href='https://fast-chat-chi.vercel.app/' target='onblanc_'>FastChat</a>
-
-![image](https://user-images.githubusercontent.com/101152834/189527907-9d1dc9c4-b08b-49e1-9927-5c25dfe242eb.png)
-<a href='https://changappv2.vercel.app/' target='onblanc_'>ChangApp</a>
+![Screenshot_1740326929](https://github.com/user-attachments/assets/1dfca7f3-2a6d-408b-a114-50cde9046511)
+<a href='https://drive.google.com/file/d/1ofts-glCuda5TG5GRHHrUuO89JF2es_E/view?usp=drive_link' target='onblanc_'>Donwload Android</a>
 
 📫 How to reach me:<br/>
 <a href='https://www.linkedin.com/in/agopchorbadjian/' target='onblanc_'>Linkedin</a><br/>
