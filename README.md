@@ -21,8 +21,15 @@ Beyond my technical skills, I stand out for my soft skills such as perseverance,
 
 Some of my Proyects:
 
-![Screenshot_1740326929](https://github.com/user-attachments/assets/1dfca7f3-2a6d-408b-a114-50cde9046511)
-<a href='https://drive.google.com/file/d/1ofts-glCuda5TG5GRHHrUuO89JF2es_E/view?usp=drive_link' target='onblanc_'>Donwload Android</a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1dfca7f3-2a6d-408b-a114-50cde9046511" width="300" />
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1ofts-glCuda5TG5GRHHrUuO89JF2es_E/view?usp=drive_link" target="_blank">
+    <b>Download Android</b>
+  </a>
+</p>
 
 📫 How to reach me:<br/>
 <a href='https://www.linkedin.com/in/agopchorbadjian/' target='onblanc_'>Linkedin</a><br/>
